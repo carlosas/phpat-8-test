@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "968ceea81881b57d56cdbbfdb5a18df4",
+    "content-hash": "00e91e9e63b7bf5ee067950da35e030a",
     "packages": [
         {
             "name": "psr/cache",
@@ -2896,16 +2896,16 @@
         },
         {
             "name": "phpat/phpat",
-            "version": "dev-type-resolver",
+            "version": "v0.8.x-dev",
             "source": {
                 "type": "git",
                 "url": "https://github.com/carlosas/phpat.git",
-                "reference": "47e85e59bb6148fdcd948b2e1a8bfe44a0f991be"
+                "reference": "d7e2b9e1490e6ba703f647f396cbb332e7703a65"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/carlosas/phpat/zipball/47e85e59bb6148fdcd948b2e1a8bfe44a0f991be",
-                "reference": "47e85e59bb6148fdcd948b2e1a8bfe44a0f991be",
+                "url": "https://api.github.com/repos/carlosas/phpat/zipball/d7e2b9e1490e6ba703f647f396cbb332e7703a65",
+                "reference": "d7e2b9e1490e6ba703f647f396cbb332e7703a65",
                 "shasum": ""
             },
             "require": {
@@ -2951,9 +2951,9 @@
             "description": "PHP Architecture Tester",
             "support": {
                 "issues": "https://github.com/carlosas/phpat/issues",
-                "source": "https://github.com/carlosas/phpat/tree/type-resolver"
+                "source": "https://github.com/carlosas/phpat/tree/v0.8"
             },
-            "time": "2021-09-10T23:24:14+00:00"
+            "time": "2021-09-10T23:42:05+00:00"
         },
         {
             "name": "phpdocumentor/reflection-common",

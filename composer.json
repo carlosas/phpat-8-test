@@ -16,7 +16,7 @@
         "symfony/yaml": "5.3.*"
     },
     "require-dev": {
-        "phpat/phpat": "dev-type-resolver",
+        "phpat/phpat": "v0.8.x-dev",
         "phpstan/phpstan": "^0.12.96"
     },
     "config": {
